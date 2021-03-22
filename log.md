@@ -20,7 +20,7 @@
 
 ### Day 4: March 18, 2021  
 
-**Today's Progress**: I learnt maps, and built in testing.
+**Today's Progress**: I reviewed the tests. Installed GoLand (Jetbrains). I learned to compile and install executables.
 
 **Thoughts** 
 
@@ -35,11 +35,31 @@ https://golang.org/doc/tutorial/add-a-test
 **Link(s) to work**
 
 https://golang.org/doc/tutorial/add-a-test
-https://blog.golang.org/module-compatibility
+https://golang.org/doc/tutorial/compile-install
+
+### Day 4: March 21, 2021 
+
+**Today's Progress**:
+I started learning go (2015)
+
+**Thoughts** 
+
+**Link(s) to work**
+https://www.linkedin.com/learning/learning-go-2015/working-with-string-values
+
+## Day 5: March 22, 2021 
+
+**Today's Progress**:
+continued with "learning go (2015)" - string - math - date packages. pointers, arrays
+
+**Thoughts** 
+
+**Link(s) to work**
+https://www.linkedin.com/learning/learning-go-2015/storing-ordered-values-in-arrays
 
 ### Day 4: March 18, 2021 
 
-**Today's Progress**: 
+**Today's Progress**:
 
 **Thoughts** 
 
