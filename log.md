@@ -57,6 +57,41 @@ continued with "learning go (2015)" - string - math - date packages. pointers, a
 **Link(s) to work**
 https://www.linkedin.com/learning/learning-go-2015/storing-ordered-values-in-arrays
 
+### Day 4: August 31, 2021 
+
+**Today's Progress**:
+1. I followed the following tutorial: 
+    https://www.youtube.com/watch?v=Dm4oRsxQKbE
+
+What I´ve done and learned.
+- using a wallet. Metamask - 
+    0x23db5E49544C5A5104316E6eE9734120F3eec357
+- using a faucet to get coins in my wallet on test networks. 
+
+- write and compile a basic smartContract in Solidity.
+- deploy to test network
+
+
+- execute it and write into the BlockChain.
+
+
+**Thoughts** 
+
+**Link(s) to work**
+https://metamask.io/
+https://kovan.etherscan.io/address/0xE2C05963F4fD29F5d40b70aF8A6F73B8fa2F2Bd4
+
+https://uniswap.org/
+https://app.sushi.com/swap
+
+### Day 4: March 18, 2021 
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s) to work**
+
 ### Day 4: March 18, 2021 
 
 **Today's Progress**:
